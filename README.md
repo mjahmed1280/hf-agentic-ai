@@ -20,3 +20,6 @@ This unit covered the basics of Large Language Models (LLMs) and AI Agents:
 The focus of Unit 2 is on the `smolagents` library:
 - **CodeAgent:** The default agent type in `smolagents`.
 - **Capabilities:** Building multi-agent systems and utilizing tools effectively.
+- **Agentic RAG**: 
+    1. Average score for agentic RAG: 86.9%
+    2. Average score for standard RAG: 73.1%

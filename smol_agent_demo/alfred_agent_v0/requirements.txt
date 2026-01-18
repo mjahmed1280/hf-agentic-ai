@@ -1,4 +1,0 @@
-ddgs
-markdownify
-requests
-smolagents
