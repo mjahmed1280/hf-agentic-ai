@@ -1,7 +1,7 @@
 ---
 title: Alfred Agent V0
 emoji: 📉
-colorFrom: blue
+colorFrom: red
 colorTo: yellow
 sdk: gradio
 sdk_version: 5.12.0
